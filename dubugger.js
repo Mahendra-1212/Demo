@@ -87,7 +87,7 @@ function applyFormula(object, elmObj, itrType) {
         } catch (e) {
             console.error(e);
         }
-    }
+    } 
     try {
         if (object && Object.keys(object).length > 0) {
             console.log("applyFormula for Field..!");
