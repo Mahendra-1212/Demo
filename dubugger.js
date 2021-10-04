@@ -214,3 +214,7 @@ function getHellow()
 	console.log("called function getHellow");
 	return "Hellow";
 }
+
+function printMsg(data){
+	console.log(data);
+}
