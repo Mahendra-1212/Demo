@@ -211,4 +211,6 @@ function applyFormulaCondition(involvedField, elmObj, itrType) {
 function getHellow()
 {
 	console.log("this will return hellow");
+	console.log("called function getHellow");
+	return "Hellow";
 }
